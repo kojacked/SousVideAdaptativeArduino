@@ -3,7 +3,9 @@ SousVideAdaptativeArduino
 
 Adaptative regulation sous-vide cooker algorithm (for arduino)
 
-For more info, refer to :
+This fork will focus on making two modifications to the original project. Because I cook in the United States, this fork will convert temperature controls and feedback to Farenheit. Also, because I bought the wrong LCD 7-Segment Displays, I am going to use the 2x16 LCD display that came in my Arduino starter kit. I'll also try to add some comments here and there.
+
+For more info on the original project, refer to :
 
 http://www.instructables.com/id/Cheap-and-effective-Sous-Vide-cooker-Arduino-power/
 
